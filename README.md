@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7MohamedAshraf10
+- 👋 Hi, I’m Mohamed Ashraf Hassan
 - 👀 I’m interested in Java programming, Java Android development and Playing football 
 - 🌱 I’m currently learning software engineeing, web development, C++ data struture, database and android studio
 - 💞️ I’m looking to collaborate on google or microsoft
